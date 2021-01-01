@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
   <img src="https://www.w3schools.com/w3css/img_lights.jpg" width="300px">
-  <h1>About</h1>
+  

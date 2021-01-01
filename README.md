@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 text-align="center"> Hi there 👋</h1>
 Thanks for visiting my profile. 
 <!--
 **anudeepayilalath/anudeepayilalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
   <img src="https://www.w3schools.com/w3css/img_lights.jpg" width="300px">
+  <h1>About</h1>

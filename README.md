@@ -1,4 +1,4 @@
-<h1 background-color="red" align="center"> HI THERE 👋</h1>
+<h1 background-color="red" align="center" font-weight="strong"> HI THERE 👋</h1>
 <h1 align="center">Thanks for visiting. </h1>
 <!--
 **anudeepayilalath/anudeepayilalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

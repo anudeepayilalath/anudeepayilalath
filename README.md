@@ -1,6 +1,6 @@
 <h1 background-color="red" align="center"> hI tHeRe 👋</h1>
 <h1 align="center">tHaNkS fOr vIsItInG mY PrOfIlE!. </h1>
-<a href="https://elegant-jennings-66ab4a.netlify.app/">Portfolio</a>
+<a text-align="center" href="https://elegant-jennings-66ab4a.netlify.app/">Portfolio</a>
 <!--
 **anudeepayilalath/anudeepayilalath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
